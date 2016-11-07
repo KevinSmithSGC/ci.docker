@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM ibmjava:8-jre
+FROM ibmjava:7-jre
 
 MAINTAINER David Currie <david_currie@uk.ibm.com> (@davidcurrie)
 
