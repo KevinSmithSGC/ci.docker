@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM openjdk:7-jre
+FROM ksmithorn97/7-jre
 
 MAINTAINER David Currie <david_currie@uk.ibm.com> (@davidcurrie)
 
